@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\VisualStudioM\ServicioWebWCF\ServicioWebWCF\bin\Debug\ServicioWebWCF.exe.config
+C:\Users\Lenovo\Documents\VisualStudioM\ServicioWebWCF\ServicioWebWCF\bin\Debug\ServicioWebWCF.exe
+C:\Users\Lenovo\Documents\VisualStudioM\ServicioWebWCF\ServicioWebWCF\bin\Debug\ServicioWebWCF.pdb
+C:\Users\Lenovo\Documents\VisualStudioM\ServicioWebWCF\ServicioWebWCF\obj\Debug\ServicioWebWCF.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\VisualStudioM\ServicioWebWCF\ServicioWebWCF\obj\Debug\ServicioWebWCF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\VisualStudioM\ServicioWebWCF\ServicioWebWCF\obj\Debug\ServicioWebWCF.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\VisualStudioM\ServicioWebWCF\ServicioWebWCF\obj\Debug\ServicioWebWCF.exe
+C:\Users\Lenovo\Documents\VisualStudioM\ServicioWebWCF\ServicioWebWCF\obj\Debug\ServicioWebWCF.pdb
